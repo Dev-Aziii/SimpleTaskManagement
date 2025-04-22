@@ -3,7 +3,7 @@
 @section('title', 'Edit Task')
 
 @section('content')
-    <div class="container mt-4 d-flex justify-content-center">
+    <div class="container mt-5 d-flex justify-content-center">
         <div class="card shadow-lg" style="width: 50rem;">
             <div class="card-header bg-primary text-white">
                 <h2><i class="fas fa-edit"></i> Edit Task</h2>
